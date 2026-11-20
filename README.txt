@@ -1,1 +1,1 @@
-Breezy Piggy Delight: upload the five HTML files to the GitHub repository root. Each contains its own styles and scripts. AQI comes from Open-Meteo. Push notifications while closed require a separate backend and PWA subscription.\n
+Breezy Piggy Care Plus — 6 standalone HTML files. Upload all HTML files to the GitHub repository root, replacing the existing five. Open index.html. The SOS link uses tel:1669 (Thailand). This is not an emergency dispatch service. Open-Meteo requires internet; push when closed still requires server + PWA setup. Health logs remain browser-local.
